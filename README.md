@@ -52,7 +52,7 @@ The best‑performing models are used for prediction.
 Dataset source:
 
 ```
-Dataset source: [Telco Customer Churn Dataset](https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv)
+Dataset source: [Telco Customer Churn Dataset (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ```
 
