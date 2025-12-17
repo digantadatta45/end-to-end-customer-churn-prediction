@@ -49,12 +49,8 @@ The best‑performing models are used for prediction.
 * 21 input features (demographics, services, billing)
 * Target variable: **Churn (Yes / No)**
 
-Dataset source:
+Dataset source: [Telco Customer Churn Dataset (Raw GitHub CSV)](https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv)
 
-```
-Dataset source: [Telco Customer Churn Dataset (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-
-```
 
 ---
 
